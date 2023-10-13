@@ -1,0 +1,26 @@
+body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            width: 500px;
+            min-height: 100px;
+        }
+
+        #saveHTML {
+            padding: 10px 15px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        #saveHTML:hover {
+            background-color: #45a049;
+        }
+
+        .emoji {
+            font-size: 30px;
+        }
