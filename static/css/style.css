@@ -65,7 +65,8 @@ button[type="submit"]:hover {
 
 footer {
     text-align: center;
-    margin-top: 20px; /* 调整页脚与内容之间的间距 */
+    margin-top: 0;
+    margin-bottom: 0px; /* 使用!important来确保优先级 */
     padding: 20px 0;
     color: #999;
     font-size: 14px;
