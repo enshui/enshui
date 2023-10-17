@@ -59,11 +59,14 @@ button[type="submit"]:hover {
 }
 
 #result {
-    font-size: 1.2em; /* ĞŞ¸Ä×ÖÌå´óĞ¡Îª1.2em */
+    font-size: 1.2em; /* ä¿®æ”¹å­—ä½“å¤§å°ä¸º1.2em */
     margin-top: 30px;
 }
 
 footer {
     text-align: center;
-    margin-top: 20px; /* µ÷ÕûÒ³½ÅÓëÄÚÈİÖ®¼äµÄ¼ä¾à */
+    margin-top: 20px; /* è°ƒæ•´é¡µè„šä¸å†…å®¹ä¹‹é—´çš„é—´è· */
+    padding: 10px 0;
+    color: #999;
+    font-size: 14px;
 }
