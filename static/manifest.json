@@ -1,7 +1,7 @@
 {
   "name": "PAN",
   "short_name": "pan",
-  "description": "水哥的网盘",
+  "description": "enshui",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fff",
