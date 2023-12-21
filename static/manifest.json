@@ -1,7 +1,7 @@
 {
   "name": "PAN",
   "short_name": "pan",
-  "description": "Ë®¸çµÄÍøÅÌ",
+  "description": "æ°´å“¥çš„ç½‘ç›˜",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fff",
