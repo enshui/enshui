@@ -122,7 +122,7 @@
 	
 	/* 二级菜单 左边距 */
 	.el-submenu .el-menu-item,
-	.el-submenu .el-submenu .el-submenu__title{padding-left: 2.5em !important;}
+	.el-submenu .el-submenu .el-submenu__title{padding-left: 0.5em !important;}
 	
 	/* 三级菜单 左边距 */
 	.el-submenu .el-submenu .el-menu-item,
